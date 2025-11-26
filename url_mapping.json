@@ -1,0 +1,59 @@
+{
+  "base_url": "https://www.ledvance.com",
+  "navigation": {
+    "professionnels": {
+      "main": "/fr-fr/professionnels",
+      "produits": "/fr-fr/professionnels/produits",
+      "luminaires": "/fr-fr/professionnels/produits/luminaires-c8453",
+      "systeme_gestion": "/fr-fr/professionnels/produits/systeme-de-gestion-de-leclairage-c7592",
+      "lampes_led": "/fr-fr/professionnels/produits/lampes/lampes-led-c6672",
+      "smart_home": "/fr-fr/professionnels/produits/smart-home-c6248",
+      "rubans_led": "/fr-fr/professionnels/produits/rubans--modules-et-alimentations-led-c187363",
+      "tubes_led": "/fr-fr/professionnels/produits/lampes/tubes-led-c7009",
+      "perspectives": "/fr-fr/professionnels/perspectives",
+      "projets": "/fr-fr/professional-lighting/projects/expansion-of-the-academic-sports-center-in-bydgoszcz"
+    },
+    "consommateurs": {
+      "main": "/fr-fr/home-lighting",
+      "produits": "/fr-fr/home-lighting/produits",
+      "lampes": "/fr-fr/home-lighting/produits/lampes-c6499",
+      "luminaires": "/fr-fr/home-lighting/produits/luminaires-c8453",
+      "smart_home": "/fr-fr/home-lighting/produits/smart-home-c6248",
+      "pieces": "/fr-fr/home-lighting/pieces",
+      "cuisine": "/fr-fr/home-lighting/pieces/eclairage-de-la-cuisine",
+      "salon": "/fr-fr/home-lighting/pieces/eclairage-du-salon",
+      "chambre": "/fr-fr/home-lighting/pieces/eclairage-des-chambres-a-coucher",
+      "salle_bain": "/fr-fr/home-lighting/pieces/eclairage-des-salles-de-bain"
+    },
+    "photovoltaique": {
+      "main": "/fr-fr/photovoltaique",
+      "produits": "/fr-fr/photovoltaique/produits",
+      "panneaux": "/fr-fr/photovoltaique/produits/panneaux-photovoltaiques",
+      "onduleurs": "/fr-fr/photovoltaique/produits/onduleurs",
+      "stockage": "/fr-fr/photovoltaique/produits/systeme-de-stockage-par-batterie",
+      "proprietaires": "/fr-fr/photovoltaique/proprietaires",
+      "installateurs": "/fr-fr/photovoltaique/installateurs",
+      "entreprise": "/fr-fr/photovoltaique/proprietaires-d-entreprise"
+    },
+    "entreprise": {
+      "main": "/fr-fr/entreprise",
+      "a_propos": "/fr-fr/entreprise/a-propos-de-ledvance",
+      "contact": "/fr-fr/entreprise/a-propos-de-ledvance/contact",
+      "carriere": "/fr-fr/entreprise/carriere",
+      "presse": "/fr-fr/entreprise/espace-presse",
+      "durabilite": "/fr-fr/entreprise/a-propos-de-ledvance/developpement-durable"
+    }
+  },
+  "footer": {
+    "legal": {
+      "mentions": "/fr-fr/entreprise/a-propos-de-ledvance/mentions-legales",
+      "confidentialite": "/fr-fr/entreprise/a-propos-de-ledvance/politique-de-confidentialite",
+      "cookies": "/fr-fr/entreprise/a-propos-de-ledvance/politique-en-matiere-de-cookies",
+      "cgv": "/fr-fr/entreprise/a-propos-de-ledvance/termes-et-conditions"
+    },
+    "services": {
+      "garantie": "/fr-fr/home-lighting/services/garantie",
+      "telechargements": "/fr-fr/home-lighting/services/telechargements"
+    }
+  }
+}

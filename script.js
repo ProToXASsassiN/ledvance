@@ -330,6 +330,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // ===========================
     // CONSOLE MESSAGE
     // ===========================
-    console.log('%c LEDVANCE ', 'background: #FF6600; color: #ffffff; font-size: 16px; font-weight: bold; padding: 10px;');
-    console.log('%c Power through light ', 'color: #FF6600; font-size: 14px; font-style: italic;');
+    console.log('%c Potentiel Energie ', 'background: #FF6600; color: #ffffff; font-size: 16px; font-weight: bold; padding: 10px;');
+    console.log('%c Power through light ', 'color: #FF6600; font-size: 14px;');
 });
